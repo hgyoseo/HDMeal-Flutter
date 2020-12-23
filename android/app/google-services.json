@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "182911581162",
+    "firebase_url": "https://hdmeal-rynwyt.firebaseio.com",
+    "project_id": "hdmeal-rynwyt",
+    "storage_bucket": "hdmeal-rynwyt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182911581162:android:363e792a8f16c113125093",
+        "android_client_info": {
+          "package_name": "kr.hdml.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182911581162-s8svcqrb7o0lq5smrdrr6tdvc92v22e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.hdml.app",
+            "certificate_hash": "11245a637973d1ea3a44e28a12c51873b162f5ef"
+          }
+        },
+        {
+          "client_id": "182911581162-rq5c8vr4h3furr78bonsiighbip3pbgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo5VCjr99q-M1LjE_0iuBRgYuM_sSw9Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182911581162-5lk8jcum7kf9nhib7uhbfhn4dkjl31qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
